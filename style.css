@@ -8,7 +8,8 @@ html , body {
     display: grid;
     height: 100%;
     place-items: center;
-    background-color: #000;
+    background: linear-gradient(135deg , #14ffe9 , #ffeb3b ,#ff0020);
+    animation: animate 1.5s linear infinite;
 }
 
 .wrapper {
